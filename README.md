@@ -1,4 +1,4 @@
-# ESP9266 Based Smart Relay Module
+# ESP8266 Based Smart Relay Module
 Spesifications:
 - ESP8266 Microcontroller
 - 2x 5V DC Relay
